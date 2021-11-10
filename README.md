@@ -1,4 +1,4 @@
-# AutoLecture
+# TC_Postman
 시험자동화 TC 문서 및 Postman 스크립트 자동화
 
 
