@@ -3,13 +3,22 @@
 
 
 ## Start
-**간단한 프로그램으로 예외처리가 없으므로 입력시 주의**
-1. ID 입력
-2. 패스워드 입력
-3. 강의 선택
-4. 주차 선택
-5. 몇 강부터 시작할 것 인지 선택
-
+### TC
+1. API 명 작성
+2. TC 문서에 factor 분석된 파라미터별 테스트 항목 작성
+3. PAIRWISE를 통해 TC 생성
+4. 테스트 항목 작성
+5. TC 명 만들기로 Request명 자동 생성
+6. 만들어진 Request명 및 예시 파라미터 입력
+7. URL 만들기로 예시 URL 자동 생성
+8. VTC도출 에서 파라미터 입력
+### Postman 자동화
+1. collection 명, URL, 기본 주소, GET/POST/PUT/DELETE 입력
+2. TC 문서에서 만들어진 VTC 및 NTC, ATC 입력
+3. 정상파라미터 입력
+4. VTC 파라미터 자동 생성
+5. API 만들기로 스크립트 자동생성
+6. Postman 스크립트 import
 
 ## Updtae
 |버전|기능|
